@@ -8,6 +8,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Agrega aquí más datos de ASADA
   {
@@ -19,6 +20,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Añade más objetos como sea necesario
   {
@@ -30,6 +32,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   {
     number: "04",
@@ -40,6 +43,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Agrega aquí más datos de ASADA
   {
@@ -51,6 +55,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Añade más objetos como sea necesario
   {
@@ -62,6 +67,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   {
     number: "07",
@@ -72,6 +78,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Agrega aquí más datos de ASADA
   {
@@ -83,6 +90,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Añade más objetos como sea necesario
   {
@@ -94,6 +102,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   {
     number: "10",
@@ -104,6 +113,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   {
     number: "11",
@@ -114,6 +124,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Agrega aquí más datos de ASADA
   {
@@ -125,6 +136,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   // Añade más objetos como sea necesario
   {
@@ -136,6 +148,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Otra dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
   {
     number: "14",
@@ -146,6 +159,7 @@ const asadaData = [
     paymentLink: "https://acueductoscr.com/recibos",
     wazeLink: "https://www.waze.com",
     address: "Aquí una dirección, Distrito, Cantón",
+    hours: "Lunes a Viernes 8:00AM - 2:00PM",
   },
 ];
 
